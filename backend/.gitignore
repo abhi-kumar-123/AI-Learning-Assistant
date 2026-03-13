@@ -1,0 +1,79 @@
+# Dependencies
+
+node_modules/
+
+# Logs
+
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime files
+
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+
+.env
+.env.*
+!.env.example
+
+# Build output
+
+dist/
+build/
+
+# Coverage
+
+coverage/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE files
+
+.vscode/
+.idea/
+
+# Temporary files
+
+tmp/
+temp/
+
+# Database files
+
+*.sqlite
+*.sqlite3
+
+# Uploads (if storing files locally)
+
+uploads/
+
+# Cache
+
+.cache/
+
+# Optional npm cache
+
+.npm/
+
+# Parcel cache
+
+.parcel-cache/
+
+# Next.js output (if used anywhere)
+
+.next/
+
+# Test files
+
+*.test.js
+*.spec.js
